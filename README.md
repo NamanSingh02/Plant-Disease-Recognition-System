@@ -1,8 +1,12 @@
 Plant Disease Recognition System
 
 -The following AI model is based on Image Recognition.
+
+
 -It is used to identify the possible disease that the plant might be having.
+
 -It takes an image of a plant's leaves and provides predictions for the plant's species and any potential diseases it may be afflicted with.
+
 -It can facilitate farmers in accurately identifying the specific diseases affecting their crops.
 
 
