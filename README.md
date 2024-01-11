@@ -1,4 +1,4 @@
-Plant Disease Recognition System
+# Plant Disease Recognition System
 
 -The following AI model is based on Image Recognition.
 
