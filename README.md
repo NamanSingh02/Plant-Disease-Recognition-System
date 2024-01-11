@@ -31,7 +31,7 @@ Target Audience:
 
 The intended audience for the system may include:
 
-1) Farmers and Agricultural Professionals: Those involved in agriculture who need to identify and manage diseases affecting their crops.
+1)Farmers and Agricultural Professionals: Those involved in agriculture who need to identify and manage diseases affecting their crops.
 
 2)Gardeners and Horticulturists: Individuals interested in maintaining the health of their plants, flowers, or gardens.
 
