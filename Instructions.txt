@@ -1,9 +1,0 @@
-Plant Disease Recognition System
-
-Steps to run:
-1) download the folder "Plant Project".
-2) open the Python file "predict.py"
-3) change the image path in the file according to the path of the image to be predicted.
-4) Run the Python file.
-
-
