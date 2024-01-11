@@ -2,7 +2,6 @@
 
 -The following AI model is based on Image Recognition.
 
-
 -It is used to identify the possible disease that the plant might be having.
 
 -It takes an image of a plant's leaves and provides predictions for the plant's species and any potential diseases it may be afflicted with.
@@ -29,9 +28,7 @@ Validation accuracy= 80.45%
 
 The result is categorized into 38 different classes representing the state of the plant.
 
-Technologies used: Python, Python Notebook, TensorFlow, Convolutional Neural Network, Keras, OpenCV-Python, 
-
-Numpy, Matplotlib, Scipy, Pickle
+Technologies used: Python, Python Notebook, TensorFlow, Convolutional Neural Network, Keras, OpenCV-Python, Numpy, Matplotlib, Scipy, Pickle
 
 
 
