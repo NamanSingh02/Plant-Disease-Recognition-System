@@ -11,18 +11,28 @@ Plant Disease Recognition System
 
 
 The model has undergone 3 phases of development:- training, validation, and testing.
+
 The model is developed using a very vast database:-
+
 training: 39,889 images
+
+
 validation: 9,414 images
+
 testing: 31 images
 
 The model is trained up to 2 epochs with 1000 steps per epoch.
+
 Training accuracy= 85.41 %
+
 Validation accuracy= 80.45%
 
 The result is categorized into 38 different classes representing the state of the plant.
 
-Technologies used: Python, Python Notebook, TensorFlow, Convolutional Neural Network, Keras, OpenCV-Python, Numpy, Matplotlib, Scipy, Pickle
+Technologies used: Python, Python Notebook, TensorFlow, Convolutional Neural Network, Keras, OpenCV-Python, 
+
+Numpy, Matplotlib, Scipy, Pickle
+
 
 
 PROBLEM SOLVED:
@@ -50,6 +60,7 @@ The intended audience for the system may include:
 7)Environmentalists and Conservationists: Those interested in preserving and protecting plant species.
 
 8)Anyone with an Interest in Plant Health: General users who want to diagnose and care for their plants.
+
 
 
 
